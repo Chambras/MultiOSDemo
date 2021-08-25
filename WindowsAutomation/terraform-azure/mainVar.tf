@@ -17,7 +17,7 @@ variable "tags" {
     "Project"     = "Hashicorp"
     "BillingCode" = "Internal"
     "Customer"    = "CSU"
-    "Owner" = "Marcelo"
+    "Owner"       = "Marcelo"
   }
   description = "Tags to be applied to all resources."
 }
