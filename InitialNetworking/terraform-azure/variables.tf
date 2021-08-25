@@ -24,6 +24,7 @@ variable "tags" {
     "BillingCode" = "Internal"
     "Customer"    = "CSU"
     "Owner"       = "Marcelo"
+    "PoC"         = "Julia"
   }
 }
 
