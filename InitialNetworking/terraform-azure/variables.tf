@@ -23,6 +23,7 @@ variable "tags" {
     "Project"     = "Hashicorp"
     "BillingCode" = "Internal"
     "Customer"    = "CSU"
+    "Owner"       = "Marcelo"
   }
 }
 
